@@ -1,0 +1,79 @@
+body{
+      margin: 0%;
+      padding: 0%;
+      background-color: white;
+}
+
+.header{
+    background-image:url(Lavender\ Birthday\ Tribute\ for\ Mum.png);
+    width: auto;
+    height: 150px;
+    margin: 0%;
+    padding: 1%;
+    border-radius: 20px;
+    box-shadow: 1px 1px 12px black;
+    
+       .h1{
+           color: white;
+           text-align: right;
+           margin-left: 5px;
+           
+       }
+            
+}
+
+.dd{
+    width: 100px;
+    padding: 10px 30px;    
+    box-shadow: 1px 1px 12px black;
+    border-radius: 55px;
+    border: none; 
+    overflow: hidden;
+    margin: auto;
+    text-align: center;
+    color: rgb(214, 107, 214);
+    box-shadow: 1px 1px 12px black;
+    
+   
+}
+
+.mam{
+    
+    width: 400px;
+   height: 400px;   
+    box-shadow: 1px 1px 12px black;
+    border-radius: 55px;
+    border: none; 
+    overflow: hidden;
+    text-align: center;
+    color: rgb(214, 107, 214);
+    box-shadow: 1px 1px 12px black;
+    background-color: rgba(255, 255, 255, 0.158);
+    margin: 10px;
+     
+}
+
+.mam .imgg{
+         width: auto;
+         width: 100%;
+        padding: 3px ;
+       background-color: rgba(255, 255, 255, 0.158); ;
+         height: 70%;
+}
+
+.big{
+      display: flex;
+      justify-content: space-around;
+
+}
+
+
+footer{
+      color:white ;
+      width: auto;
+      padding: 10px;
+      background-color: purple;
+      text-align: center;
+      border-radius: 20px;
+}
+
